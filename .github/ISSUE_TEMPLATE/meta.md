@@ -2,10 +2,10 @@
 name: Meta
 about: Ask a question about Meta, report a bug in Meta, or suggest a feature for Meta
   (your only option)
-title: ''
+title: 'Meta: My question/request/bug'
 labels: ''
 assignees: ''
 
 ---
 
-<!-- Write something. -->
+**Write something**, e.g. "What is Meta?"
