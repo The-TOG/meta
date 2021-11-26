@@ -1,3 +1,4 @@
+[![Automatic pull request review](https://github.com/The-TOG/meta/actions/workflows/pull-request-automation.yml/badge.svg)](https://github.com/The-TOG/meta/actions/workflows/pull-request-automation.yml)
 # Meta
 Issue tracker and discussion for all our games.
 
