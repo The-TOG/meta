@@ -1,6 +1,6 @@
 name: Automatic pull request review
 
-on: [pull_request]
+on: pull_request
 
 jobs:
 
