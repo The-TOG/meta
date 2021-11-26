@@ -20,9 +20,9 @@ jobs:
 
           repo-token: ${{ secrets.GITHUB_TOKEN }}
 
-          event: APPROVE
+          event: APPROVE, MERGE
 
-          body: 'Thank you dependabot 🎊'
+          body: 'Merged!'
 
 
 
