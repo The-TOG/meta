@@ -8,5 +8,5 @@ blacklist:
 
   - do-not-merge
 
-method: squash
+method: merge
 
